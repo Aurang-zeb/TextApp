@@ -1,14 +1,10 @@
-
-import Colorpicker from "./Colorpicker";
-import Bulb from "./Bulb";
-import Bmi from "./Bmi";
-
+import Navbar from "./Navbar";
+import TextArea from "./TextArea";
 function App() {
   return (
       <>
-        <Colorpicker/>
-        <Bulb/>
-        <Bmi/>
+        <Navbar/>
+        <TextArea/>
       </>
   );
 }
