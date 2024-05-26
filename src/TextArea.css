@@ -1,0 +1,14 @@
+.btnContainer{
+    margin: 4%; 
+}
+@media screen and (max-width: 624px) {
+    .btn {
+      display: block;
+      width: 100%;
+      margin-bottom: 10px;
+      /* background-color: rgb(8, 31, 65); */
+    }
+  }
+  
+
+  
